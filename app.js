@@ -1,5 +1,3 @@
-console.log("finished hw up to q10");
-
 /*
 Exercise 1: Define an empty array
 
